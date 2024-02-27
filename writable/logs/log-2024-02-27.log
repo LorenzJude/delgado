@@ -1,0 +1,273 @@
+CRITICAL - 2024-02-27 03:51:15 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:51:17 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:51:17 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:51:17 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:51:17 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:51:18 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:51:18 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:53:21 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:53:22 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:53:22 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:53:22 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:53:34 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:53:34 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:53:34 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:53:35 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:53:35 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:53:35 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:53:35 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:53:35 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:53:36 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:53:36 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:53:57 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:53:57 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:53:57 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:53:58 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:54:01 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:54:02 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:54:02 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:54:02 --> Class "App\Controllers\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 47.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:56:55 --> Class "App\Models\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:56:56 --> Class "App\Models\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:56:57 --> Class "App\Models\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:56:57 --> Class "App\Models\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:56:57 --> Class "App\Models\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:56:57 --> Class "App\Models\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:56:57 --> Class "App\Models\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:56:58 --> Class "App\Models\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:56:58 --> Class "App\Models\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
+CRITICAL - 2024-02-27 03:56:58 --> Class "App\Models\GenderModel" not found
+in APPPATH\Controllers\UserController.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\UserController->adduser()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\delgado\\public\\index.php')
